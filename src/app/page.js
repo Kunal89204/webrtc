@@ -347,7 +347,7 @@ const WebRTCApp = () => {
           <ol className="list-decimal list-inside space-y-2 text-gray-300">
             <li>Allow camera and microphone access when prompted</li>
             <li>Share your Connection ID with the person you want to call</li>
-            <li>Enter their Connection ID and click &quot;Start Call&quot; or "Answer"</li>
+            <li>Enter their Connection ID and click &quot;Start Call&quot; or &quot;Answer&quot;</li>
             <li>Note: This is a basic demo - in a real app, you&apos;d need a signaling server</li>
           </ol>
         </div>
