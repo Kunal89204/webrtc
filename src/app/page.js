@@ -36,7 +36,7 @@ const WebRTCApp = () => {
 
   const initializeMedia = async () => {
     try {
-      const stream = await navigator.mediaDevices.getUserMedia({
+      const stream = await navigator?.mediaDevices?.getUserMedia({
         video: true,
         audio: true
       });
